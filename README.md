@@ -30,6 +30,7 @@ This project uses several gigabytes' worth of satellite imagery and other data. 
 
 ### Software Requirements
 - Python (Numpy, Pandas, Scikit-Learn)
+- Jupyter (Ideally Google Colab)
 - TensorFlow version > 2.0
 
 
