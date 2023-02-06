@@ -1,0 +1,6 @@
+,RandomForestClassifier
+country_lat_long_train,0.9998858447488584
+country_lat_long_test,0.813141683778234
+country_lat_long_val,0.8036998972250771
+accuracy_val,0.8036998972250771
+recall_val,0.6722408026755853
